@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348793958738",
+    "project_id": "testfacedectection",
+    "storage_bucket": "testfacedectection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348793958738:android:4f36b136bc1b835682ca8b",
+        "android_client_info": {
+          "package_name": "com.wanchai.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348793958738-7cegqlii84qd1m2o7octso9u33jajei5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAie8SX51MGIA-PpaDqAtC8vXUqJKvbFsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348793958738-7cegqlii84qd1m2o7octso9u33jajei5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
